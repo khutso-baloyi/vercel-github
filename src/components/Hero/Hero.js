@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         I am a highly motivated Software developer with a passion for IT security, back-end engineering, and Game development.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://khutso-baloyi.github.io'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
