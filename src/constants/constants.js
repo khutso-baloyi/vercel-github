@@ -13,8 +13,8 @@ export const projects = [
     description:"This static website shows the different applications I am working on and the different skills I have aqcuired so far.",
     image: '/images/portfolios.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://khutso-baloyi.github.io/portfolio/',
-    visit: 'https://github.com/khutso-baloyi/portfolio',
+    source: 'https://khutso-baloyi.vercel.app',
+    visit: 'https://github.com/khutso-baloyi/vercel-github',
     id: 1,
   },
 ];
