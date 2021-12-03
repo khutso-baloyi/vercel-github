@@ -22,8 +22,8 @@ export const projects = [
     description:"This landing page is for a mobile spar business and has the ability to contact the employees of the business.",
     image: '/images/crystal.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://khutso-baloyi.vercel.app',
-    visit: 'https://github.com/khutso-baloyi/vercel-github',
+    source: 'https://khutso-baloyi.github.io/crystalclear',
+    visit: 'https://github.com/khutso-baloyi/crystalclear',
     id: 2,
   },
 ];
