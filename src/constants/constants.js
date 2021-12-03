@@ -24,7 +24,7 @@ export const projects = [
     tags: ['React', 'JavaScript'],
     source: 'https://khutso-baloyi.vercel.app',
     visit: 'https://github.com/khutso-baloyi/vercel-github',
-    id: 1,
+    id: 2,
   },
 ];
 
