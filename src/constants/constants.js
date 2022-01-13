@@ -4,7 +4,7 @@ export const projects = [
     description: "This mobile application enables grocery shoppers to monitor their grocery list's price differences from their favourite retail stores every month",
       image: '/images/retailprice.png',
       tags: ['React Native', 'Express', 'Postgres', 'Node'],
-    source: 'https://google.com',
+    source: 'https://drive.google.com/file/d/1OXlniTGwvBsUKSVjMEWv-zTn97swBivg/view?usp=sharing',
     visit: 'https://github.com/khutso-baloyi/RetailPrice',
     id: 0,
   },
