@@ -46,10 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Ever since I was young, I was always fascinated by computers. I have dedicated my education to understanding how computers work to communicate and create value for the end-users. 
-        The growing complexity of software capabilities and hardware architects always motivates me to learn more and do more with the knowledge I acquire.
-        Though I am a software developer by profession, my passion for computers extends beyond developing. Understanding how computers communicate, how the software works under the hood, and how to increase computer security are some of the challenges I like to undertake. 
-        Besides simple small programs that help me grasp some of the modern design patterns and architects like APIs, component lifecycles, and JWT, I am currently building a mobile-based social networking app that will help songwriters communicate and exchange ideas on their craft, interests and artistic processes.
+      I am a firm believer in learning the fundamentals of software development in order to create quality software. So i spend most of my spare time watching video conferences on software development, solving software challenges and playing CTFs (capture the flag). Though I am a software developer by profession, my passion for computers extends beyond developing. Understanding how computers communicate, how the software works under the hood, and how to increase computer security are some of the challenges I like to undertake.
+
+Besides simple small programs that help me grasp some of the modern design patterns and architects like APIs, component lifecycles, and JWT, I am currently building a mobile-based social networking app that will help songwriters communicate and exchange ideas on their craft, interests and artistic processes.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
